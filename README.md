@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RememberV
 - 👀 I’m a master of WUST
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java、SSM、JDBC...
 - 📫 How to reach me WeChat Yu643979400
 
 <!---
